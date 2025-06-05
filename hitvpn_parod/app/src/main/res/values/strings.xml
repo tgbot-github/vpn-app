@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HiVPN</string>
+    <string name="vpn_status_off">Нажмите на кнопку, чтобы включить VPN</string>
+    <string name="vpn_status_on">VPN подключен</string>
+    <string name="connection_status_off">VPN отключен</string>
+    <string name="connection_status_on">Подключено</string>
+    <string name="select_server">Выбрать сервер</string>
+    <string name="vpn_status_connected">VPN подключен</string>
+    <string name="vpn_status_disconnected">VPN отключен</string>
+    <string name="connection_status_connected">Подключено</string>
+    <string name="connection_status_disconnected">Отключено</string>
+</resources>
